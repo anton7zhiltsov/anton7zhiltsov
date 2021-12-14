@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anton7zhiltsov
+- 👋 Hi, I’m @AntonZhiltsov
 - 👀 I’m interested in programming and 3D motion design
 - 🌱 I’m currently learning C/C++ 
 
